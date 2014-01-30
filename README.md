@@ -6,3 +6,5 @@ Certificate validation function is fully customizable and behavior of validation
 For example, you can decide what to do with clients, which prefered not to provide certificate.
 In this case server can abort ssl handshake, or to accept that, but application will be informed about that.
 This server could became very handy tool for building secured infrastructures.
+
+More explanation of contents will follow later.
